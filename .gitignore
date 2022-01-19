@@ -1,0 +1,8 @@
+# ask git to ignore all folder/files listed 
+
+.DS_Store
+*.pdf
+*.zip
+
+
+do-not-add.txt
